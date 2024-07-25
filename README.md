@@ -32,6 +32,7 @@ The Google Tag Manager pagination made it impossible to scrape and retrieve all 
     - Vector search to retrieve context based on user query.
 * [RAG Stack with PyMongo, OpenAI, LlamaIndex, MongoDB](https://www.mongodb.com/developer/products/atlas/rag-with-polm-stack-llamaindex-openai-mongodb/)
 * [RAG with MongoDB Atlas Vector Search, LangChain, and OpenAI on Gradio](https://www.mongodb.com/developer/products/atlas/rag-atlas-vector-search-langchain-openai/#setting-up-the-environment)
+* [Code example on MongoDB Atlas Vector Search](https://github.com/mongodb-developer/atlas-vector-search-rag/blob/main/load_data.py)
 
 ### Task: LLM
 * <b>Goal</b>: Respond to user query based on context
