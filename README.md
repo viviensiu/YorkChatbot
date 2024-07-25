@@ -17,8 +17,8 @@ Agile
 | Must-have| A Vector database that stores web-scraped data on York travel info.| 8 Jul - 14 Jul|
 | Must-have| A basic RAG chatbot using information scraped from a website | 8 Jul - 14 Jul|
 | Must-have| Deploy the basic RAG chatbot on HuggingFace Spaces for demo | 15 Jul - 21 Jul|
-| Good-to-have| RAG pipeline using dlt Python package to inject new York travel info into the vector DB | |
-| Good-to-have| Host the RAG chatbot on Cloud | |
+| Good-to-have| RAG pipeline using dlt Python package to inject new York travel info into the vector DB | N/A|
+| Good-to-have| Host the RAG chatbot on Cloud | N/A|
 
 ### Task: Web-scraping
 <b>Goal</b>: Scrape VisitYork pages for context
