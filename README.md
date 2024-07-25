@@ -22,22 +22,22 @@ Agile
 | Good-to-have| Host the RAG chatbot on Cloud | N/A|
 
 ### Task: Web-scraping
-<b>Goal</b>: Scrape VisitYork pages for context
-**Notes**:
+* <b>Goal</b>: Scrape VisitYork pages for context.
+* **Notes**:
 The Google Tag Manager pagination made it impossible to scrape and retrieve all links for all pages, since page numbers are not shown in url. To mitigate this, a Streamlit app was create to allow manual web-scraping by url input into JSON files.
 
 ### Task: Vector Database
-<b>Goal</b>: 
-- Store web-scraping data in persistent Vector DB.
-- Vector search to retrieve context based on user query.
+* <b>Goal</b>: 
+    - Store web-scraping data in persistent Vector DB.
+    - Vector search to retrieve context based on user query.
 * [RAG Stack with PyMongo, OpenAI, LlamaIndex, MongoDB](https://www.mongodb.com/developer/products/atlas/rag-with-polm-stack-llamaindex-openai-mongodb/)
 * [RAG with MongoDB Atlas Vector Search, LangChain, and OpenAI on Gradio](https://www.mongodb.com/developer/products/atlas/rag-atlas-vector-search-langchain-openai/#setting-up-the-environment)
 
 ### Task: LLM
-<b>Goal</b>: Respond to user query based on context
+* <b>Goal</b>: Respond to user query based on context
 
 ### Task: Chatbot UI
-<b>Goal</b>: Accepts user query and respond to it using RAG
+* <b>Goal</b>: Accepts user query and respond to it using RAG
 
 ## References
 * [Agile 101: How to do a Basic Agile Project](https://www.youtube.com/watch?v=6PqmHhJFXp4)
