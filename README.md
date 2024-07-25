@@ -5,6 +5,15 @@
 ## Project Methodology
 Agile
 
+## System Design
+Modular programs:
+* Web-scrapping class
+* Web-scrapping interface
+* Data ingestion into Vector DB
+* Embedding class
+* LLM class
+* Chatbot interface
+
 ## Project Timeline
 7 July 2024 - 31 August 2024
 
