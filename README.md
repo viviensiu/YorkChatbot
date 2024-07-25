@@ -12,6 +12,7 @@ Agile
 * Priority : Must-have, good-to-have
 * Sprint Task: Description of task
 * Timeline: Sprint timeline for task
+
 | Priority | Sprint Task | Timeline |
 |----------|-------------|----------|
 | Must-have| A Vector database that stores web-scraped data on York travel info.| 8 Jul - 14 Jul|
