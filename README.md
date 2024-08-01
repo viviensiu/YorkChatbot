@@ -47,7 +47,10 @@ The Google Tag Manager pagination made it impossible to scrape and retrieve all 
 * <b>Goal</b>: Respond to user query based on context
 
 ### Task: Chatbot UI
-* <b>Goal</b>: Accepts user query and respond to it using RAG
+* <b>Goal</b>: Accepts user query and respond to it using RAG.
+* References:
+    * [Build a simple chatbot GUI with streaming](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
+    * [How to display conversation on opposite sides](https://discuss.streamlit.io/t/how-to-display-user-and-assistant-chat-on-opposite-sides-when-streaming-like-a-conversation/60336/7)
 
 ## References
 * [Agile 101: How to do a Basic Agile Project](https://www.youtube.com/watch?v=6PqmHhJFXp4)
